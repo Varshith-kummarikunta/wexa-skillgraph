@@ -279,9 +279,11 @@ https://wexa-skillgraph-backend-p96r.onrender.com
 
 ## Screen Recording
 
-The repository includes the SkillGraph demo GIF at:
+### Demo Recording
 
-./screenshots/skillgraph-demo.gif
+[SkillGraph Demo Recording](https://drive.google.com/file/d/1d1mQNqOl_VVjc1GII0UBDIACJAgdBytJ/view?usp=sharing)
+
+The recording demonstrates the main SkillGraph features, including the Role Explorer, Career Path Finder, and Graph Explorer.
 
 ## Assignment Context
 
