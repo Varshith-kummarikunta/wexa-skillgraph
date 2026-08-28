@@ -253,15 +253,35 @@ Set `FRONTEND_URL` to the deployed frontend origin and `VITE_API_URL` to the dep
 
 ## Screenshots
 
-> TODO: Add screenshots of the Role Explorer, Career Path Finder, and Graph Explorer before submission.
+### Role Explorer
+
+![Role Explorer](./screenshots/role-explorer.png)
+
+### Career Path Finder
+
+![Career Path Finder](./screenshots/career-path-finder.png)
+
+### Graph Explorer
+
+![Graph Explorer](./screenshots/graph-explorer.png)
+
+### Visual Demo
+
+![SkillGraph Demo](./screenshots/skillgraph-demo.gif)
 
 ## Hosted Demo
 
-> TODO: Add the hosted demo URL before submission.
+Live Demo:
+https://wexa-skillgraph-frontend-gbyo.onrender.com
+
+Backend API:
+https://wexa-skillgraph-backend-p96r.onrender.com
 
 ## Screen Recording
 
-> TODO: Add the short screen recording link before submission.
+The repository includes the SkillGraph demo GIF at:
+
+./screenshots/skillgraph-demo.gif
 
 ## Assignment Context
 
